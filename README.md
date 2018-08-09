@@ -18,4 +18,5 @@ The source code used in the presentation is here:
 ## Dependency
 
 In order to get up and running quickly, I used the following CMake shim in proj1 and proj2. 
-[AddLibrary](https://github.com/paxos1977/AddLibrary/)
+
+- [AddLibrary](https://github.com/paxos1977/AddLibrary/)
